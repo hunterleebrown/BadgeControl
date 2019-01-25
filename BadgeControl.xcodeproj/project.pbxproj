@@ -22,9 +22,9 @@
 		71AE68701F49B2DD00196F80 /* BadgeControl.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BadgeControl.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		71AE68731F49B2DD00196F80 /* BadgeControl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = BadgeControl.h; path = BadgeControl/BadgeControl.h; sourceTree = SOURCE_ROOT; };
 		71AE68741F49B2DD00196F80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		71B250201F49B541001E7145 /* BadgeCenterPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BadgeCenterPosition.swift; path = BadgeControl/BadgeCenterPosition.swift; sourceTree = SOURCE_ROOT; };
-		71B250211F49B541001E7145 /* BadgeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BadgeController.swift; path = BadgeControl/BadgeController.swift; sourceTree = SOURCE_ROOT; };
-		71B250221F49B541001E7145 /* BadgeImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BadgeImageView.swift; path = BadgeControl/BadgeImageView.swift; sourceTree = SOURCE_ROOT; };
+		71B250201F49B541001E7145 /* BadgeCenterPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeCenterPosition.swift; sourceTree = "<group>"; };
+		71B250211F49B541001E7145 /* BadgeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeController.swift; sourceTree = "<group>"; };
+		71B250221F49B541001E7145 /* BadgeImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
