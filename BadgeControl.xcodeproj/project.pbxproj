@@ -12,6 +12,9 @@
 		71B250231F49B541001E7145 /* BadgeCenterPosition.swift in Headers */ = {isa = PBXBuildFile; fileRef = 71B250201F49B541001E7145 /* BadgeCenterPosition.swift */; };
 		71B250241F49B541001E7145 /* BadgeController.swift in Headers */ = {isa = PBXBuildFile; fileRef = 71B250211F49B541001E7145 /* BadgeController.swift */; };
 		71B250251F49B541001E7145 /* BadgeImageView.swift in Headers */ = {isa = PBXBuildFile; fileRef = 71B250221F49B541001E7145 /* BadgeImageView.swift */; };
+		CEF95F6221FA939D004401FB /* BadgeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B250211F49B541001E7145 /* BadgeController.swift */; };
+		CEF95F6321FA939D004401FB /* BadgeImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B250221F49B541001E7145 /* BadgeImageView.swift */; };
+		CEF95F6421FA939D004401FB /* BadgeCenterPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B250201F49B541001E7145 /* BadgeCenterPosition.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -146,6 +149,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEF95F6221FA939D004401FB /* BadgeController.swift in Sources */,
+				CEF95F6321FA939D004401FB /* BadgeImageView.swift in Sources */,
+				CEF95F6421FA939D004401FB /* BadgeCenterPosition.swift in Sources */,
 				7176E45D1F4CCBAE00781455 /* BadgeAnimations.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
